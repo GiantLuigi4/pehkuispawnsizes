@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "tfc.pehkuispawnsizes.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "pehkuispawnsizes.refmap.json",
+  "mixins": [
+    "ServerMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
